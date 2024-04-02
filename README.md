@@ -1,1 +1,5 @@
 # SpaceX-Falcon-9-First-Stage-Landing-Prediction
+
+SpaceX, founded in 2002 by Elon Musk, is an American aerospace company headquartered in Hawthorne, California. Its primary goal is to reduce space transportation costs and eventually enable Mars colonization. The company has stood out among leading aerospace firms with a string of remarkable achievements, including sending spacecraft to the International Space Station, creating a satellite internet constellation, and conducting crewed space missions.
+
+A key reason behind SpaceX’s success lies in its relatively affordable rocket launches. For instance, the advertised cost for launching SpaceX’s Falcon 9 rocket is $62 million, compared to over $165 million for other providers. This significant contrast is mainly due to SpaceX’s ability to reuse the first stage of a rocket. Therefore, estimating launch costs critically depends on predicting whether the first stage will successfully land or not. In this project, we aim to predict the first stage landing of the Falcon 9 rocket .
